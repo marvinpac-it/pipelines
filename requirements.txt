@@ -63,3 +63,9 @@ beautifulsoup4
 # Llama Index for RAG
 llama-index
 llama-index-llms-ollama
+
+# Add LangChain for RAG
+langchain
+langchain-core
+langchain-openai
+langchain-chroma
